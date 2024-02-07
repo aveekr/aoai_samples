@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <UserSecretsId>ab7bf08d-c1d8-4908-98bf-9df8fa6a0ebd</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="DocumentFormat.OpenXml" Version="3.0.1" />
+    <PackageReference Include="ExcelPackage" Version="1.0.0" />
+    <PackageReference Include="Microsoft.SemanticKernel" Version="1.3.0" />
+    <PackageReference Include="Microsoft.SemanticKernel.Abstractions" Version="1.3.0" />
+    <PackageReference Include="Microsoft.SemanticKernel.Core" Version="1.3.0" />
+    <PackageReference Include="Microsoft.SemanticKernel.Functions.Semantic" Version="1.0.0-beta2" />
+    <PackageReference Include="Microsoft.SemanticKernel.Planners.Core" Version="1.0.0-beta8" />
+    <PackageReference Include="Microsoft.SemanticKernel.Planning.ActionPlanner" Version="0.20.230821.4-preview" />
+    <PackageReference Include="Microsoft.SemanticKernel.Plugins.Core" Version="1.3.0-alpha" />
+    <PackageReference Include="Microsoft.SemanticKernel.Plugins.Memory" Version="1.3.0-alpha" />
+    <PackageReference Include="OfficeOpenXml.Core.ExcelPackage" Version="1.0.0" />
+     <PackageReference Include="Microsoft.Extensions.Configuration.UserSecrets" Version="8.0.0" />
+  </ItemGroup>
+
+</Project>
