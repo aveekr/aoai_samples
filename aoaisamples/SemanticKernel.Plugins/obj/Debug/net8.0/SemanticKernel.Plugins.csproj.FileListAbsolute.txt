@@ -1,0 +1,13 @@
+c:\Users\aveekr\Documents\skexamples\SemanticKernel-Demos\SemanticKernel.Plugins\bin\Debug\net8.0\SemanticKernel.Plugins.deps.json
+c:\Users\aveekr\Documents\skexamples\SemanticKernel-Demos\SemanticKernel.Plugins\bin\Debug\net8.0\SemanticKernel.Plugins.dll
+c:\Users\aveekr\Documents\skexamples\SemanticKernel-Demos\SemanticKernel.Plugins\bin\Debug\net8.0\SemanticKernel.Plugins.pdb
+c:\Users\aveekr\Documents\skexamples\SemanticKernel-Demos\SemanticKernel.Plugins\obj\Debug\net8.0\SemanticKernel.Plugins.csproj.AssemblyReference.cache
+c:\Users\aveekr\Documents\skexamples\SemanticKernel-Demos\SemanticKernel.Plugins\obj\Debug\net8.0\SemanticKernel.Plugins.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\aveekr\Documents\skexamples\SemanticKernel-Demos\SemanticKernel.Plugins\obj\Debug\net8.0\SemanticKernel.Plugins.AssemblyInfoInputs.cache
+c:\Users\aveekr\Documents\skexamples\SemanticKernel-Demos\SemanticKernel.Plugins\obj\Debug\net8.0\SemanticKernel.Plugins.AssemblyInfo.cs
+c:\Users\aveekr\Documents\skexamples\SemanticKernel-Demos\SemanticKernel.Plugins\obj\Debug\net8.0\SemanticKernel.Plugins.csproj.CoreCompileInputs.cache
+c:\Users\aveekr\Documents\skexamples\SemanticKernel-Demos\SemanticKernel.Plugins\obj\Debug\net8.0\SemanticKernel.Plugins.sourcelink.json
+c:\Users\aveekr\Documents\skexamples\SemanticKernel-Demos\SemanticKernel.Plugins\obj\Debug\net8.0\SemanticKernel.Plugins.dll
+c:\Users\aveekr\Documents\skexamples\SemanticKernel-Demos\SemanticKernel.Plugins\obj\Debug\net8.0\refint\SemanticKernel.Plugins.dll
+c:\Users\aveekr\Documents\skexamples\SemanticKernel-Demos\SemanticKernel.Plugins\obj\Debug\net8.0\SemanticKernel.Plugins.pdb
+c:\Users\aveekr\Documents\skexamples\SemanticKernel-Demos\SemanticKernel.Plugins\obj\Debug\net8.0\ref\SemanticKernel.Plugins.dll
